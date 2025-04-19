@@ -1,7 +1,7 @@
 
 Пример работы приложения для получения рекомендаций по фильму "Avatar"
 <p align="center">
- <img width="200px" src="example.png" alt="qr"/>
+ <img src="example.png" alt="qr"/>
 </p>
 
 ### Структура проекта
